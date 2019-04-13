@@ -6,12 +6,17 @@
 ### Data Sources
 
 * https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
-* xx
-* xx
+* https://databank.worldbank.org/data/home.aspx
+* http://data.un.org/
+* Kaggle data for olympic athletes, physical traits, country, medals
+* world bank data for economic indicators
+* un data for nutrition and health
 
-### Project Guidelines
+### Tranform Data
+* Using a Python notebook to get data from sources, clean, and upload to MySQL database
 
-* xxx
+### Loading Destination
+* MySQL database
 
 
 
