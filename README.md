@@ -45,4 +45,6 @@ MySQL to join data, performing the following:
 
 ## LOAD
 Production Database
+
 Relational - MySQL
+https://github.com/davidgmathews/ETL_Project/blob/master/Resources/final_sql_table_dtypes.xlsx
